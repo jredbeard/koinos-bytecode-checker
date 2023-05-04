@@ -1,0 +1,22 @@
+{
+  "name": "koinos-bytecode-checker",
+  "version": "0.0.1",
+  "description": "A CLI tool to check to verify bytecode (hashes and size) of smart contracts uploaded to the Koinos blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jredbeard/koinos-bytecode-checker.git"
+  },
+  "author": "Justin Welch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jredbeard/koinos-bytecode-checker/issues"
+  },
+  "homepage": "https://github.com/jredbeard/koinos-bytecode-checker#readme",
+  "dependencies": {
+    "koilib": "^5.5.5"
+  }
+}
