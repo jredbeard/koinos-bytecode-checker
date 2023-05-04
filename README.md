@@ -29,4 +29,4 @@ If you need to specify a different node, set the environment variable NODE_API.
 
 Pull requests to this repo are welcome as I'm usually very busy.
 
-This software is inspired by and uses code from (Fogata)[https://github.com/joticajulian/fogata] by Julián González (thanks!)
+This software is inspired by and uses code from [Fogata](https://github.com/joticajulian/fogata) by Julián González (thanks!)
